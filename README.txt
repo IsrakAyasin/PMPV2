@@ -4,7 +4,7 @@
 Israk Ayasin
 
 
-Course work (Homework 2) for COS 301 Programming Languages class
+Course work (Homework 3) for COS 301 Programming Languages class
 Spring 2024
 University of Maine
 
@@ -17,14 +17,22 @@ Requirements:
     - POSIX-like enviornment (for shell script)
 
 Running:
-    python .\pmpv2.py
+    python .\pmpv3.py
 
     This command will let you type anything that is valid for this calculator. Which includ Integers, Real Numbers, Plus, Minus, Multiplication, Division, Modulus, Floor division, Parenthesis, and variables.
 
     Input and output can be redirected. For example:
-    Get-Content .\in.txt | python .\pmpv2.py > out.txt
+    Get-Content .\in.txt | python .\pmpv3.py > out.txt
 
     This command is for PowerShell
 
 Bugs and limitation:
 * More testing needed
+
+
+Reason for chosing those test cases:
+They go over all the features I implimented
+push my programs limitation
+find any bug 
+Impliment features from the test cases
+Answer everything I was supposed to do
